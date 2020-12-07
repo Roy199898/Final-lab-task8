@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\lab problem 8\lab problem 8\bin\Debug\netcoreapp3.1\lab problem 8.exe
+C:\Users\Administrator\source\repos\lab problem 8\lab problem 8\bin\Debug\netcoreapp3.1\lab problem 8.deps.json
+C:\Users\Administrator\source\repos\lab problem 8\lab problem 8\bin\Debug\netcoreapp3.1\lab problem 8.runtimeconfig.json
+C:\Users\Administrator\source\repos\lab problem 8\lab problem 8\bin\Debug\netcoreapp3.1\lab problem 8.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\lab problem 8\lab problem 8\bin\Debug\netcoreapp3.1\lab problem 8.dll
+C:\Users\Administrator\source\repos\lab problem 8\lab problem 8\bin\Debug\netcoreapp3.1\lab problem 8.pdb
+C:\Users\Administrator\source\repos\lab problem 8\lab problem 8\obj\Debug\netcoreapp3.1\lab problem 8.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\lab problem 8\lab problem 8\obj\Debug\netcoreapp3.1\lab_problem_8.Form1.resources
+C:\Users\Administrator\source\repos\lab problem 8\lab problem 8\obj\Debug\netcoreapp3.1\lab problem 8.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\lab problem 8\lab problem 8\obj\Debug\netcoreapp3.1\lab problem 8.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\lab problem 8\lab problem 8\obj\Debug\netcoreapp3.1\lab problem 8.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\lab problem 8\lab problem 8\obj\Debug\netcoreapp3.1\lab problem 8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\lab problem 8\lab problem 8\obj\Debug\netcoreapp3.1\lab problem 8.dll
+C:\Users\Administrator\source\repos\lab problem 8\lab problem 8\obj\Debug\netcoreapp3.1\lab problem 8.pdb
+C:\Users\Administrator\source\repos\lab problem 8\lab problem 8\obj\Debug\netcoreapp3.1\lab problem 8.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\lab problem 8\lab problem 8\obj\Debug\netcoreapp3.1\lab_problem_8.Registration.resources
